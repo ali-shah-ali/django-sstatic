@@ -1,0 +1,14 @@
+django-sstatic
+==============
+
+Simple static files versioning for django.
+
+## Usage
+
+Add *sstatic* to your INSTALLED_APPS.
+
+### Template usage
+
+    {% load sstatic %}
+
+    <link rel="stylesheet" href="{% sstatic 'css/default.css' %}" />
