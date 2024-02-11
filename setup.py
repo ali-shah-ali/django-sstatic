@@ -11,6 +11,6 @@ setup(
     author = 'Svyatoslav Bulbakha',
     author_email = 'ad3w.inbox@gmail.com',
     description = 'Simple static files versioning for django.',
-    url = 'http://bitbucket.org/ad3w/django-sstatic',
+    url = 'https://bitbucket.org/ad3w/django-sstatic',
     include_package_data = True
 )
